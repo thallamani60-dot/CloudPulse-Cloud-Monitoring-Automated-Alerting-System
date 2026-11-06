@@ -1,0 +1,6 @@
+{"timestamp": "2026-11-06T05:00:00+00:00", "name": "Example homepage", "url": "https://example.com", "ok": true, "status_code": 200, "latency_ms": 184.32, "error": null}
+{"timestamp": "2026-11-06T05:05:00+00:00", "name": "Example homepage", "url": "https://example.com", "ok": true, "status_code": 200, "latency_ms": 201.47, "error": null}
+{"timestamp": "2026-11-06T05:10:00+00:00", "name": "Example homepage", "url": "https://example.com", "ok": false, "status_code": 503, "latency_ms": 96.18, "error": "HTTPError: HTTP Error 503: Service Unavailable"}
+{"timestamp": "2026-11-06T05:15:00+00:00", "name": "Example homepage", "url": "https://example.com", "ok": true, "status_code": 200, "latency_ms": 190.05, "error": null}
+{"timestamp": "2026-11-06T05:52:46+00:00", "name": "Example homepage", "url": "https://example.com", "ok": false, "status_code": null, "latency_ms": 262.07, "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1077)>"}
+{"timestamp": "2026-11-06T05:52:46+00:00", "name": "Example HTTP status", "url": "https://httpbin.org/status/200", "ok": true, "status_code": 200, "latency_ms": 756.51, "error": null}
